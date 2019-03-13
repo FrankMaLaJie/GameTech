@@ -1,0 +1,33 @@
+﻿  CollisionDetection.cpp
+  Debug.cpp
+  GameClient.cpp
+  GameObject.cpp
+  GameServer.cpp
+  GameWorld.cpp
+  GJKAlgorithm.cpp
+  NavigationGrid.cpp
+c:\temp\renjie sun game tech\renjie sun coursework\csc8503\csc8503common\navigationgrid.cpp(39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\temp\renjie sun game tech\renjie sun coursework\csc8503\csc8503common\navigationgrid.cpp(79): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\temp\renjie sun game tech\renjie sun coursework\csc8503\csc8503common\navigationgrid.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\temp\renjie sun game tech\renjie sun coursework\csc8503\csc8503common\navigationgrid.cpp(82): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  NavigationMesh.cpp
+  NetworkBase.cpp
+  NetworkObject.cpp
+  PhysicsObject.cpp
+  PhysicsSystem.cpp
+  PositionConstraint.cpp
+  PushdownMachine.cpp
+  PushdownState.cpp
+  QuadTree.cpp
+  RenderObject.cpp
+  Simplex.cpp
+  State.cpp
+  Generating Code...
+  Compiling...
+  StateMachine.cpp
+  StateTransition.cpp
+  Transform.cpp
+  Generating Code...
+StateTransition.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+QuadTree.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  CSC8503Common.vcxproj -> C:\temp\Renjie Sun Game Tech\Renjie Sun Coursework\Win32\Debug\CSC8503Common.lib
